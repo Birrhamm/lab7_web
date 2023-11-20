@@ -2,30 +2,30 @@
 
 - Tempat simpan file
   
-![aja1](https://github.com/muhammadzidanfadilah/Lab7_web/assets/115553474/16f3d21c-19bb-4cd2-b661-76ebc4053735)
+![v1](https://github.com/Birrhamm/lab7_web/assets/115520530/1f2de33f-5c89-4a2d-962c-c0b4972e715b)
 
 - PHP Dasar
   
-![aja2](https://github.com/muhammadzidanfadilah/Lab7_web/assets/115553474/00fdadbb-b6e5-4e70-8fab-0f39195e9606)
+![v2](https://github.com/Birrhamm/lab7_web/assets/115520530/1f2161c3-1df1-4979-8d2e-ded64fce407b)
 
 - Predefine Variable
   
-![aja3](https://github.com/muhammadzidanfadilah/Lab7_web/assets/115553474/96071da7-39e3-4038-9234-95a7de43ccba)
+![v3](https://github.com/Birrhamm/lab7_web/assets/115520530/4e7f4f42-beff-4c0b-8a6a-7b502ca064c9)
 
 - Membuat Form Input
   
-![aja4](https://github.com/muhammadzidanfadilah/Lab7_web/assets/115553474/1517e455-3f28-41fa-bff1-bc848e6059e5)
+![v4](https://github.com/Birrhamm/lab7_web/assets/115520530/59425283-3185-4e1e-a4c3-01192a6a26a6)
 
 - Operator Kondisi IF Kondisi Switch
-![aja5](https://github.com/muhammadzidanfadilah/Lab7_web/assets/115553474/a73023b6-f9d4-4946-a63d-fb2514cc4156)
+![v5](https://github.com/Birrhamm/lab7_web/assets/115520530/92b62e3f-ffd9-4f28-a3fb-93e93e63ba4f)
 
-![aja6](https://github.com/muhammadzidanfadilah/Lab7_web/assets/115553474/03f3b9fa-885f-4b76-98b1-fae3cc89d642)
+![v6](https://github.com/Birrhamm/lab7_web/assets/115520530/fb93fb2c-3201-46d1-9a8f-6f588eed086e)
 
 - Perulangan for Perulangan while Perulangan dowhile
   
-![aja7](https://github.com/muhammadzidanfadilah/Lab7_web/assets/115553474/a5f4bf9d-7808-4c71-ab6e-a9d6b4faa644)
+![v7](https://github.com/Birrhamm/lab7_web/assets/115520530/386d3e81-a9f8-4096-b01b-774018a08ef1)
 
-![aja8](https://github.com/muhammadzidanfadilah/Lab7_web/assets/115553474/911b8cf1-c62a-42a0-a01d-dc9cad0d41ef)
+![v8](https://github.com/Birrhamm/lab7_web/assets/115520530/e4db2df6-ba37-45b9-91a6-a25f80beb43c)
 
 # Pertanyaan dan Tugas
 Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan
@@ -33,10 +33,10 @@ nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitun
 umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang
 berbeda-beda sesuai pilihan pekerjaan.
 
-![aja13](https://github.com/muhammadzidanfadilah/Lab7_web/assets/115553474/fc999f7c-deed-450a-a0d0-5afae5e1e0da)
+![v9](https://github.com/Birrhamm/lab7_web/assets/115520530/8e35f83f-a36c-4fe3-bfc9-afadcddab2e6)
 
-![aja14](https://github.com/muhammadzidanfadilah/Lab7_web/assets/115553474/87a32e94-acec-48fd-bf50-1a70cc64439f)
+![v10](https://github.com/Birrhamm/lab7_web/assets/115520530/968c75c1-df3a-44de-a47b-bef26020c2ba)
 
-![aja15](https://github.com/muhammadzidanfadilah/Lab7_web/assets/115553474/841db50b-346e-4bb1-a4cc-c5b3b3573260)
+![v11](https://github.com/Birrhamm/lab7_web/assets/115520530/de5cc3bd-a401-452f-a4b4-55a03e8a422a)
 
-![aja16](https://github.com/muhammadzidanfadilah/Lab7_web/assets/115553474/fb199ccb-6aef-444c-92d2-65c8145e4918)
+![v12](https://github.com/Birrhamm/lab7_web/assets/115520530/7822b5c2-14cb-4e59-aa34-5580117c46e2)
