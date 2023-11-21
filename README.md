@@ -33,10 +33,4 @@ nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitun
 umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang
 berbeda-beda sesuai pilihan pekerjaan.
 
-![v9](https://github.com/Birrhamm/lab7_web/assets/115520530/8e35f83f-a36c-4fe3-bfc9-afadcddab2e6)
-
-![v10](https://github.com/Birrhamm/lab7_web/assets/115520530/968c75c1-df3a-44de-a47b-bef26020c2ba)
-
-![v11](https://github.com/Birrhamm/lab7_web/assets/115520530/de5cc3bd-a401-452f-a4b4-55a03e8a422a)
-
-![v12](https://github.com/Birrhamm/lab7_web/assets/115520530/7822b5c2-14cb-4e59-aa34-5580117c46e2)
+![v13](https://github.com/Birrhamm/lab7_web/assets/115520530/acca5863-8029-4d1a-9d7d-07a97a22de7f)
